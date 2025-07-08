@@ -1,5 +1,5 @@
 # Digital-Logic-Tool WIP
-This is a C code that simulates logic gates for 1-bit comparisons and 8-bit, or byte, comparisons.
+This is a C code that simulates logic gates for both 1-bit comparisons and 8-bit (byte) comparisons.
 
 Currently a work in progress, and I aim to have the following features:
 - 1-bit comparisons for logic gates: AND, OR, NOT, NAND, NOR, XOR, XNOR 
@@ -7,4 +7,4 @@ Currently a work in progress, and I aim to have the following features:
 - Truth table generation for the logic gates mentioned above
 - A clean CLI, or command-line interface
 
-Additonally, the logic gates which will use bitwise operators will be contained in a .h file for reusability, and for the readability of the .c file.
+Additonally, all logic gate functions will be contained in a `.h` file for reusability and to keep the `.c` file readable.
