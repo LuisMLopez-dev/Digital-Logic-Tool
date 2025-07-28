@@ -1,7 +1,7 @@
 # Digital-Logic-Tool WIP
 This is a C program that simulates logic gates for both 1-bit comparisons and 8-bit (byte) comparisons.
 
-## Planned features include:
+## Planned Features
 - 1-bit comparisons for logic gates: AND, OR, NOT, NAND, NOR, XOR, XNOR 
 - 8-bit comparisons for logic gates: AND, OR, NOT, NAND, NOR, XOR, XNOR 
 - Truth table generation for the logic gates mentioned above
